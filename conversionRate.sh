@@ -12,7 +12,7 @@
 #variables for the Script
 events_service_endpoint="http://<events_service_endpoint>:9080"
 global_account_name=""
-api_key="]"
+api_key=""
 create_events_schema="/events/schema/currency_exchange_rates_base_usd"
 publish_event_seg="/events/publish/currency_exchange_rates_base_usd"
 
